@@ -4,8 +4,6 @@ This is a really awesome website
 
 Updates made on master on GitHub before rebase
 
-#Repository Purpose
+Repository Purpose
 
-This will be a change that conflicts 
-with whatever is on the remote side.
-
+this file is just to test conflicts
