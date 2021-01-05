@@ -12,3 +12,7 @@ this file is just to test conflicts
 
 The purpose of this file is to provide examples
 on how to use Git and GitHub together.
+
+## Getting Starting
+
+To get started with this project, just 'clone' this repository.
